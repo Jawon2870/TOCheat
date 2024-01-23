@@ -21,4 +21,4 @@
 
 ### Example：
 
-​    	<img src="https://github.com/Jawon2870/TOCheat/blob/main/res/DrawWithMines/pic.png?raw=true"  style="width: 45%; display: inline-block"><img src="[CN.jpg (722×430) (raw.githubusercontent.com)](https://raw.githubusercontent.com/Jawon2870/TOCheat/main/res/DrawWithMines/CN.jpg)" style="width: 50%; display: inline-block">
+​    	<img src="https://github.com/Jawon2870/TOCheat/blob/main/res/DrawWithMines/pic.png?raw=true"  style="width: 45%; display: inline-block"><img src="https://github.com/Jawon2870/TOCheat/blob/main/res/DrawWithMines/CN.jpg?raw=true" style="width: 50%; display: inline-block">
